@@ -1,2 +1,2 @@
-# pfSense-filterlog-extractor
-A pfsense filterlog extractor
+# pfSense Filterlog Extractor
+Just a pfsense filterlog extractor for use with graylog
